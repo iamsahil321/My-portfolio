@@ -120,7 +120,7 @@ color:slategrey ;
     flex-direction: column;
 }
 .contactform form div input{
-    /* width: 26vw; */
+    
     border-radius: 5px;
     margin: 6px 0 0 0;
     padding: 3px;
@@ -200,9 +200,7 @@ left: 10px;
     margin-left: 135px;
 }
 @media (max-width: 1000px) {
-*{
 
-}
 .buttons{
     font-size: 6px;
 }
@@ -212,11 +210,8 @@ left: 10px;
 .devInfo{
     font-size: 10px;
 }
-/* .sidebar{
-    transform: translate(-443px,0px);
-    position: absolute;
-}
-     */
+
+     
      .introContainer, .blogContainer, .contactform{  
         margin: 50px 10px;
      }      
